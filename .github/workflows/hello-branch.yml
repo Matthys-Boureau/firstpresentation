@@ -1,7 +1,6 @@
-name: CI on Push
-
+name: CI on Pull Request
 on:
-  push:
+  pull_request:
     branches:
       - main
 
@@ -12,4 +11,4 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
     - name: Run a one-line script
-      run: echo Hello, Push Event !
+      run: echo Hello, Pull Request Event !
