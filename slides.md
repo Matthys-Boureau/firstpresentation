@@ -91,4 +91,12 @@ git merge feature/branching
 
 ```bash
 git branch -d feature/branching
+```
 
+---
+
+## Your Full Name here
+
+![](https://raw.githubusercontent.com/flexbox/github-bootcamp/main/slides/github-bootcamp.png)
+
+--- 
