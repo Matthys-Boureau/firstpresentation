@@ -93,6 +93,86 @@ git merge feature/branching
 git branch -d feature/branching
 ```
 
+--- 
+
+### NEW SLIDE YESSS
+
+--- 
+
+### Pushing changes to remote
+
+---
+
+### Pulling changes from remote
+
+---
+
+### TEXT 
+
+Hello i'm a very good text
+
+```bash 
+YEAHHHHHHHHH
+```
+
+
+---
+
+### Lists 
+
+- 1
+- 2
+- 3
+
+```bash 
+YEAHHHHHHHHH
+```
+
+---
+
+### Image 
+
+![Image](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+```bash 
+YEAHHHHHHHHH
+```
+
+
+---
+
+### Headers & Quotes
+
+`some content`
+
+# HEADER 1
+## Header 2
+### Header 3
+#### Header 4
+
+
+---
+
+### Code 
+
+```bash 
+Hello je suis du code 
+```
+
+---
+
+### Extras
+- 1
+  - [2](Hello)
+
+some content too
+
+---
+
+# How to automate issue closing
+
+Make a commit with `gcmsg 'feat: automation FTW closes #1'
+
 ---
 
 ## Your Full Name here
